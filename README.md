@@ -2,7 +2,7 @@
 A place to collaboratly work on tasks in *robotics*.
 
 # Tasks
-## Lecture: Robotics 2
+**From the lecture "Robotics 2: Modeling, Analysis, and Control":**
 1. [T01: Technical Tools, Mobility, and Robotics-1 Continuation (I)](t01)
 2. 
 3. 
