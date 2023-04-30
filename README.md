@@ -18,7 +18,7 @@ $$
 P \in \mathrm{SE}(3) = \set{ \begin{pmatrix}
 R & \pmb{p} \\
 \pmb{0} & 1
-\end{pmatrix} | R \in \mathrm{SO}(3), p \in \mathbb{R}^3 \}
+\end{pmatrix} | R \in \mathrm{SO}(3), \pmb{p} \in \mathbb{R}^3 \}
 $$
 
 **Description:**    The module [special_poses](my_modules/kinematics/special_poses.py) should provide some functions to generate frequently
